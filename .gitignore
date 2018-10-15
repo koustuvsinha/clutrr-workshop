@@ -110,8 +110,6 @@ venv.bak/
 .dmypy.json
 dmypy.json
 
-# csv
-*.csv
 
 # IDEA
 .idea/
