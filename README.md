@@ -7,8 +7,9 @@ A benchmark dataset generator to test relational reasoning on text
 ### Dependencies
 
 - [NetworkX](https://networkx.github.io/)
-- [Pandas](https://pypi.org/project/pandas/)
-- [Names](https://pypi.org/project/names/)
+- [pandas](https://pypi.org/project/pandas/)
+- [names](https://pypi.org/project/names/)
+- [tqdm](https://pypi.org/project/tqdm/)
 
 ### Generate
 
