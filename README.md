@@ -2,7 +2,26 @@
 
 **C**ompositional **L**anguage **U**nderstanding with **T**ext-based **R**elational **R**easoniong
 
-A benchmark dataset generator to test relational reasoning on text
+A benchmark dataset generator to test relational reasoning on text.
+
+This work will be presented at [Relational Representation Learning Workshop](https://r2learning.github.io/) during [NIPS 2018](https://nips.cc/Conferences/2018). If you use the dataset, please cite our [paper](https://arxiv.org/abs/1811.02959):
+
+```
+@ARTICLE{2018arXiv181102959S,
+   author = {{Sinha}, K. and {Sodhani}, S. and {Hamilton}, W.~L. and {Pineau}, J.
+  },
+    title = "{Compositional Language Understanding with Text-based Relational Reasoning}",
+  journal = {ArXiv e-prints},
+archivePrefix = "arXiv",
+   eprint = {1811.02959},
+ primaryClass = "cs.CL",
+ keywords = {Computer Science - Computation and Language, Computer Science - Artificial Intelligence},
+     year = 2018,
+    month = nov,
+   adsurl = {http://adsabs.harvard.edu/abs/2018arXiv181102959S},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+```
 
 ### Dependencies
 
