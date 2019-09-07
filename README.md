@@ -1,4 +1,6 @@
-## CLUTRR
+## CLUTRR-Workshop
+
+**UPDATE**: This repository is now **DEPRECATED** following our [EMNLP 2019 paper](https://arxiv.org/pdf/1908.06177.pdf). Please use the new repository [https://github.com/facebookresearch/clutrr](https://github.com/facebookresearch/clutrr)
 
 **C**ompositional **L**anguage **U**nderstanding with **T**ext-based **R**elational **R**easoniong
 
